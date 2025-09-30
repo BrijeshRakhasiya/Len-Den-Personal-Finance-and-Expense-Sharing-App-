@@ -1,4 +1,5 @@
-# Len-Den
+# Len-Den: Personal Finance and Expense Sharing App 
+
 
 A lightweight Flutter app for managing and splitting expenses among friends, groups, or individuals, built for smart personal finance on mobile.
 
